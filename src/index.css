@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+.quiz-done {
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.text-align-start {
+  text-align: start;
+}
